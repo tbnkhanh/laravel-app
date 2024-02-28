@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer style=" position: fixed; bottom: 0; width: 100%;" class="text-center text-lg-start bg-body-tertiary text-muted">
-    <!-- Section: Social media -->
+    {{-- <!-- Section: Social media -->
     <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
       <!-- Left -->
       <div class="me-5 d-none d-lg-block">
@@ -109,7 +109,7 @@
         </div>
         <!-- Grid row -->
       </div>
-    </section>
+    </section> --}}
     <!-- Section: Links  -->
   
     <!-- Copyright -->
