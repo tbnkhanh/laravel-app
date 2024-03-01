@@ -11,5 +11,5 @@ class Food extends Model
     protected $table = 'foods';
     protected $primaryKey = 'id';
     protected $timestamps = true;
-    protected $dateFormat='h:m:s';
+    // protected $dateFormat='h:m:s';
 }

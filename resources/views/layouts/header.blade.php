@@ -12,7 +12,7 @@
   <!-- Container wrapper -->
   <div class="container">
     <!-- Navbar brand -->
-    <a class="navbar-brand me-2" href="/posts">
+    <a class="navbar-brand me-2" href="/">
       <img
         src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
         height="16"
@@ -40,7 +40,7 @@
       <!-- Left links -->
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="/posts">Dashboard</a>
+          <a class="nav-link" href="/posts">Posts</a>
         </li>
       </ul>
       <!-- Left links -->
